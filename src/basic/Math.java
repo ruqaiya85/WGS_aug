@@ -10,4 +10,7 @@ public class Math {
 	public static void multiply(int a,int b) {
 		System.out.println("Product is " +a*b);
 	}
+	public static void subtraction(int a,int b) {
+		System.out.println("Product is " +(a-b));
+}
 }
