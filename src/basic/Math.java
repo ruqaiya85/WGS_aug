@@ -11,6 +11,6 @@ public class Math {
 		System.out.println("Product is " +a*b);
 	}
 	public static void subtraction(int a,int b) {
-		System.out.println("Product is " +(a-b));
+		System.out.println("Subtraction is  " +(a-b));
 }
 }
